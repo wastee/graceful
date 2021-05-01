@@ -401,6 +401,19 @@ section.about.stats {
   display: none;
 }
 
+h1 {
+  font-size: $font-up-4 !important;
+}
+
+h2 {
+  font-size: $font-up-3 !important;
+}
+
 h3 {
+  font-size: $font-up-2 !important;
   font-weight: bold !important; 
+}
+
+h4 {
+  font-size: $font-0;
 }
